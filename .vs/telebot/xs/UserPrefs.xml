@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{789112C3-D3B2-4913-A4C9-DE445BD4C9D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bot.cs">
+    <Files>
+      <File FileName="Bot.cs" Line="2" Column="14" />
+      <File FileName="Program.cs" />
+      <File FileName="Repository.cs" />
+      <File FileName="Game.cs" />
+      <File FileName="data.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="telebot" expanded="True">
+            <Node name="telebot" expanded="True">
+              <Node name="Bot.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.telebot FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
